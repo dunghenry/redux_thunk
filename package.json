@@ -1,5 +1,5 @@
 {
-  "name": "redux_thunk",
+  "name": "redux_toolkit_thunk",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
